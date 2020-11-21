@@ -1,1 +1,0 @@
-# HackSRM-submission
